@@ -9,7 +9,7 @@ class ImageSlider extends StatefulWidget {
       : super(key: key);
 
   @override
-  _ImageSliderState createState() => _ImageSliderState();
+  State<ImageSlider> createState() => _ImageSliderState();
 }
 
 class _ImageSliderState extends State<ImageSlider>
@@ -63,7 +63,7 @@ class _ImageSliderState extends State<ImageSlider>
       animationController!.forward();
       imgIndex();
       imageIndex = imageIndex;
-      print("imageIndex $imageIndex");
+      // print("imageIndex $imageIndex");
     });
   }
 
