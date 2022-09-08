@@ -25,9 +25,9 @@ start using the package.
 
 ### Show some :heart: and star the repo to support the project
 
-<!-- 
+
 ## Screenshots
-<img src="https://raw.githubusercontent.com/Rajkumar07793/music_visualizer_package/22-09-2021_null-safety/visualCrop.gif"/> -->
+<img src="https://raw.githubusercontent.com/Rajkumar07793/animated_image_list/image.gif"/>
 
 
 ## Usage
