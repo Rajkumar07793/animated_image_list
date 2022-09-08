@@ -27,7 +27,7 @@ start using the package.
 
 
 ## Screenshots
-<img src="https://raw.githubusercontent.com/Rajkumar07793/animated_image_list/image.gif"/>
+<img src="https://raw.githubusercontent.com/Rajkumar07793/animated_image_list/master/image.gif"/>
 
 
 ## Usage
